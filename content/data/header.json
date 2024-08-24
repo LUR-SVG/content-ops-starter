@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "紧急呼救",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -93,4 +93,4 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
-}
+}}
