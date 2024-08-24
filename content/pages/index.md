@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      智能硬件开发：设计并开发智能家居设备（如智能门锁、照明系统、环境传感器）、健康监测设备（如智能体重秤、血压计）等。
+
+      软件系统开发：开发综合性健康管理平台、远程医疗系统和用户交互界面。实现数据采集、存储、分析和展示功能。
+
+      据传输与处理：构建数据传输通道，确保数据的实时性和准确性。应用数据加密技术保护用户隐私。oration just work.
     actions:
       - label: Get started
         altText: ''
