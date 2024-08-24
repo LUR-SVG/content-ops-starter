@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Home - Demo site - Theme Demo (zhihuiyanglao.netlify.app)
+      text: 智慧居家养老产品系统
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
